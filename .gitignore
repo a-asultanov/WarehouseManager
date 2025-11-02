@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+instance/
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# Byte-compiled / cache
+*.log
+
+# Docker
+postgres_data/
+*.pid
+
+# OS
+.DS_Store
+Thumbs.db
